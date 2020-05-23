@@ -64,14 +64,13 @@
 
 6. Member
 
-   [member 1]
-   `name` : Lim Hyo Jin
-   `student number` : 201635844
-   `e-mail` : [hellogenie97@gmil.com](mailto:hellogenie97@gmil.com)
+   [member 1]<br>
+   `name` : Lim Hyo Jin <br>
+   `student number` : 201635844<br>
+   `e-mail` : [hellogenie97@gmil.com](mailto:hellogenie97@gmil.com)<br>
 
-   [member 2]
-
-   `name` : Lee Ye Ji
-   `student number` : 201635838
-   `e-mail` : [yagee1997@gmail.com](mailto:yagee1997@gmail.com)
+   [member 2]<br>
+   `name` : Lee Ye Ji<br>
+   `student number` : 201635838<br>
+   `e-mail` : [yagee1997@gmail.com](mailto:yagee1997@gmail.com)<br>
 
