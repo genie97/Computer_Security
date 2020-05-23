@@ -2,65 +2,65 @@
 
 1. Comparison between static analysis and dynamic analysis
 
-![](./img/slide3.png)
+![](./img/slide3.PNG)
 
 2. Cuckoo Sandbox
 
-![](./img/slide4.png)
+![](./img/slide4.PNG)
 
-![](./img/slide5.png)
+![](./img/slide5.PNG)
 
-![](./img/slide6.png)
+![](./img/slide6.PNG)
 
-![](./img/slide7.png)
+![](./img/slide7.PNG)
 
-![](./img/slide8.png)
+![](./img/slide8.PNG)
 
 3. Cuckoo Sandbox installation process
 
-![](./img/slide9.png)
+![](./img/slide9.PNG)
 
-![](./img/slide10.png)
+![](./img/slide10.PNG)
 
-![](./img/slide11.png)
+![](./img/slide11.PNG)
 
-![](./img/slide12.png)
+![](./img/slide12.PNG)
 
-![](./img/slide13.png)
+![](./img/slide13.PNG)
 
-![](./img/slide14.png)
+![](./img/slide14.PNG)
 
-![](./img/slide15.png)
+![](./img/slide15.PNG)
 
-![](./img/slide16.png)
+![](./img/slide16.PNG)
 
-![](./img/slide17.png)
+![](./img/slide17.PNG)
 
-![](./img/slide18.png)
+![](./img/slide18.PNG)
 
-![](./img/slide19.png)
+![](./img/slide19.PNG)
 
 4. Dynamic analysis results
 
-![](./img/slide20.png)
+![](./img/slide20.PNG)
 
-![](./img/slide21.png)
+![](./img/slide21.PNG)
 
 5. Classification
 
-![](./img/slide22.png)
+![](./img/slide22.PNG)
 
-![](./img/slide23.png)
+![](./img/slide23.PNG)
 
-![](./img/slide24.png)
+![](./img/slide24.PNG)
 
-![](./img/slide25.png)
+![](./img/slide25.PNG)
 
-![](./img/slide26.png)
+![](./img/slide26.PNG)
 
-![](./img/slide27.png)
+![](./img/slide27.PNG)
 
-![](./img/slide28.png)
+![](./img/slide28.PNG)
 
 6. Member
 
